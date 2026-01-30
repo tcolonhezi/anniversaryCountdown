@@ -46,7 +46,7 @@ No server or build process is required; it's a static web page.
 
 ## Demo
 
-The application displays a countdown timer with flip-card animations for each unit (days, hours, minutes, seconds). The anniversary date is set to December 4th.
+The application displays a countdown timer with flip-card animations for each unit (days, hours, minutes, seconds). The anniversary date is set to April 12th.
 
 ## Author
 
